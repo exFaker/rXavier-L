@@ -1,5 +1,5 @@
 # OLÁ, RAMON AQUI ⚡!
-- 🔭 Visando trabalhar em front-and
+- 🔭 Visando trabalhar com desenvolvimento
 - 🌱 estudando HTML,CSS e JS
 - 😄 Pronouns: ELE/DELE
 
